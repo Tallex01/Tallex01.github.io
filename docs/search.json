@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A few of my projects are showcased below.\nData Visualization Project for Class: World’s Tallest Ferris Wheels, Pre-2018 -This was a project I worked on for a class to get my first experience with data visualization with Tableau, and I chose to work with Ferris Wheels. \nFerris Wheel Dashboard\nData Visualization Self Project: Most Valuable Comic Books -This was a self project I decided to work on over the summer in Tableau, detailing the most expensive comics of every year sold for the most money. \nComic Book Dashboard\nMultilevel Modeling Report: NBA Draft Picks -This was a project for my multilevel and mixed regression modeling class, in which I helped investigate if NBA players picked earlier in the draft tend to have more game time on average than later drafts, in tandem with other factors.\nMultilevel NBA Project\nData Analysis: Muffin Bake Heights -This was a project for a statistics course in which I collected data on 48 muffins, to see whether the level of oven rack (bottom or top) had a significant impact on a muffin’s overall baking height.\nMuffin Project\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Alex Goodman",
@@ -19,12 +26,5 @@
     "title": "Links",
     "section": "",
     "text": "Here are some links:\nEmail: agoodman252@gmail.com\nLinkedIn\nGitHub"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "A few of my projects are showcased below.\nData Visualization Project for Class: World’s Tallest Ferris Wheels, Pre-2018 -This was a project I worked on for a class to get my first experience with data visualization with Tableau, and I chose to work with Ferris Wheels. \nFerris Wheel Dashboard\nData Visualization Self Project: Most Valuable Comic Books -This was a self project I decided to work on over the summer in Tableau, detailing the most expensive comics of every year sold for the most money. \nComic Book Dashboard\nMultilevel Modeling Report: NBA Draft Picks -This was a project for my multilevel and mixed regression modeling class, in which I helped investigate if NBA players picked earlier in the draft tend to have more game time on average than later drafts, in tandem with other factors.\nMultilevel NBA Project\nData Analysis: Muffin Bake Heights -This was a project for a statistics course in which I collected data on 48 muffins, to see whether the level of oven rack (bottom or top) had a significant impact on a muffin’s overall baking height.\nMuffin Project\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
