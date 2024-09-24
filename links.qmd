@@ -1,0 +1,11 @@
+---
+title: "Links"
+---
+
+Here are some links:
+
+Email: agoodman252@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/alex-goodman-b47470248/)
+
+[GitHub](https://github.com/Tallex0)

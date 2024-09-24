@@ -1,0 +1,20 @@
+---
+title: "Alex Goodman"
+resources: 
+  - ResumePic.png
+about:
+  template: trestles
+  links: 
+      - href: links.qmd
+        text: Links
+      - href: ResumePic3.png
+        text: Resume
+      - href: projects.qmd
+        text: Projects
+---
+
+![](AlexG.jpeg)
+
+Welcome to my website! I am a statistics student at Cal Poly SLO. I enjoy statistics and working with data, and I am on a path forward towards a great career. My hobbies include running, travel, guitar, and reading.
+
+Skills/Relevant coursework: SAS, JMP, R, Python, Tableau, Excel, Word, Statistical Computing in R, Statistical Computing in SAS, Linear Algebra, Methods of Proof, Probability Theory, Calculus I-IV, Applied Linear Models, Multilevel and Mixed Modeling, Survey Sampling and Methodology.

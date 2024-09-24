@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Alex Goodman"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: links.qmd
+        text: Links
+      - href: ResumePic3.png
+        text: Resume
+      - href: projects.qmd
+        text: Projects
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true

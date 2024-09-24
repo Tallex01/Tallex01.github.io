@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Alex Goodman",
+    "section": "",
+    "text": "Welcome to my website! I am a statistics student at Cal Poly SLO. I enjoy statistics and working with data, and I am on a path forward towards a great career. My hobbies include running, travel, guitar, and reading.\nSkills/Relevant coursework: SAS, JMP, R, Python, Tableau, Excel, Word, Statistical Computing in R, Statistical Computing in SAS, Linear Algebra, Methods of Proof, Probability Theory, Calculus I-IV, Applied Linear Models, Multilevel and Mixed Modeling, Survey Sampling and Methodology."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "Links",
+    "section": "",
+    "text": "Here are some links:\nEmail: agoodman252@gmail.com\nLinkedIn\nGitHub"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A few of my projects are showcased below.\nData Visualization Project for Class: World’s Tallest Ferris Wheels, Pre-2018 -This was a project I worked on for a class to get my first experience with data visualization with Tableau, and I chose to work with Ferris Wheels. \nFerris Wheel Dashboard\nData Visualization Self Project: Most Valuable Comic Books -This was a self project I decided to work on over the summer in Tableau, detailing the most expensive comics of every year sold for the most money. \nComic Book Dashboard\nMultilevel Modeling Report: NBA Draft Picks -This was a project for my multilevel and mixed regression modeling class, in which I helped investigate if NBA players picked earlier in the draft tend to have more game time on average than later drafts, in tandem with other factors.\nMultilevel NBA Project\nData Analysis: Muffin Bake Heights -This was a project for a statistics course in which I collected data on 48 muffins, to see whether the level of oven rack (bottom or top) had a significant impact on a muffin’s overall baking height.\nMuffin Project\n\n\n\n\n\n\n\n\n\nNo matching items"
+  }
+]

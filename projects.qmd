@@ -1,0 +1,31 @@
+---
+title: "Projects"
+listing:
+  contents: portfolio_files
+---
+
+A few of my projects are showcased below.
+
+**Data Visualization Project for Class: World's Tallest Ferris Wheels, Pre-2018** \n
+-This was a project I worked on for a class to get my first experience with data visualization with Tableau, and I chose to work with Ferris Wheels. \n
+
+[Ferris Wheel Dashboard](https://public.tableau.com/app/profile/alex.goodman8645/viz/Dashboard_16858448451090/Dashboard1?publish=yes)
+
+
+
+**Data Visualization Self Project: Most Valuable Comic Books** \n
+-This was a self project I decided to work on over the summer in Tableau, detailing the most expensive comics of every year sold for the most money. \n
+
+[Comic Book Dashboard](https://public.tableau.com/app/profile/alex.goodman8645/viz/PriceyComicsTable1/Dashboard1?publish=yes)
+
+
+**Multilevel Modeling Report: NBA Draft Picks** \n
+-This was a project for my multilevel and mixed regression modeling class, in which I helped investigate if NBA players picked earlier in the draft tend to have more game time on average than later drafts, in tandem with other factors.\n
+
+[Multilevel NBA Project](https://docs.google.com/document/d/1hHnyuL8cqv-ltT9Fn32Pjl__zscTSu8xSDz_ZRAGdv8/edit?usp=sharing)
+
+
+**Data Analysis: Muffin Bake Heights** \n
+-This was a project for a statistics course in which I collected data on 48 muffins, to see whether the level of oven rack (bottom or top) had a significant impact on a muffin's overall baking height.\n
+
+[Muffin Project](https://docs.google.com/document/d/1v_MM9AGS1f3pSz5nFVX7gTv9SreKSqEpY5PWECYOUHk/edit?usp=sharing)

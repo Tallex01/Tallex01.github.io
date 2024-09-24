@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Alex Goodman",
+    "section": "",
+    "text": "Welcome to my website! I am a statistics student at Cal Poly SLO. I enjoy statistics and working with data, and I am on a path forward towards a great career. My hobbies include running, travel, guitar, and reading.\nSkills/Relevant coursework: SAS, JMP, R, Python, Tableau, Excel, Word, Statistical Computing in R, Statistical Computing in SAS, Linear Algebra, Methods of Proof, Probability Theory, Calculus I-IV, Applied Linear Models, Multilevel and Mixed Modeling, Survey Sampling and Methodology."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
