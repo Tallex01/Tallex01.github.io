@@ -13,4 +13,4 @@ Minimal Python website starter.
 4. Start the server:
 	uvicorn app:app --reload
 
-Open http://127.0.0.1:8000 and you should see a blank white page with the text: Hello
+Open http://127.0.0.1:8000 and you should see the homepage.

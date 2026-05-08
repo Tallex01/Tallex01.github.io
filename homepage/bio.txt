@@ -1,0 +1,3 @@
+Hello! My name is Alex Goodman. I am a data scientist with a Master's Degree in Data Science from Mercyhurst University, 
+and a Bachelor's Degree in Statistics from California Polytechnic State University, San Luis Obispo. 
+Welcome to my website!

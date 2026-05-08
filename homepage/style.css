@@ -1,0 +1,111 @@
+:root {
+  color-scheme: light;
+  --bg: #f3efe4;
+  --surface: rgba(255, 255, 255, 0.72);
+  --surface-strong: #fbf8f1;
+  --text: #283028;
+  --muted: #5f6858;
+  --accent: #556b2f;
+  --accent-soft: #8aa06a;
+  --ring: rgba(85, 107, 47, 0.22);
+  --shadow: 0 18px 50px rgba(44, 54, 37, 0.12);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  min-height: 100%;
+}
+
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  color: var(--text);
+  background:
+    radial-gradient(circle at top left, rgba(138, 160, 106, 0.16), transparent 34%),
+    radial-gradient(circle at bottom right, rgba(85, 107, 47, 0.10), transparent 28%),
+    var(--bg);
+}
+
+.page-shell {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  padding: 32px;
+}
+
+.hero-card {
+  width: min(960px, 100%);
+  display: grid;
+  grid-template-columns: minmax(220px, 320px) 1fr;
+  gap: 28px;
+  padding: 24px;
+  background: var(--surface);
+  border: 1px solid var(--ring);
+  border-radius: 28px;
+  box-shadow: var(--shadow);
+  backdrop-filter: blur(12px);
+}
+
+.portrait-wrap {
+  border-radius: 22px;
+  overflow: hidden;
+  background: var(--surface-strong);
+  min-height: 100%;
+}
+
+.portrait {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  aspect-ratio: 4 / 5;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 12px 8px 12px 4px;
+}
+
+.eyebrow {
+  margin: 0 0 12px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--accent);
+  font: 600 0.72rem/1.2 "Arial", sans-serif;
+}
+
+h1 {
+  margin: 0;
+  font-size: clamp(2.2rem, 5vw, 4rem);
+  line-height: 0.95;
+  letter-spacing: -0.04em;
+}
+
+.bio {
+  margin: 18px 0 0;
+  max-width: 38rem;
+  color: var(--muted);
+  font: 400 1.04rem/1.8 "Arial", sans-serif;
+}
+
+@media (max-width: 760px) {
+  .page-shell {
+    padding: 18px;
+  }
+
+  .hero-card {
+    grid-template-columns: 1fr;
+    gap: 18px;
+    padding: 16px;
+    border-radius: 22px;
+  }
+
+  .content {
+    padding: 4px 2px 10px;
+  }
+}
