@@ -1,4 +1,16 @@
 document.addEventListener("DOMContentLoaded", async () => {
+  const path = window.location.pathname;
+  const currentPage = path === "/" ? "index.html" : path.split("/").pop();
+  const navLinks = document.querySelectorAll(".nav-link");
+
+  navLinks.forEach((link) => {
+    const href = link.getAttribute("href");
+    if (href === currentPage) {
+      link.classList.add("is-active");
+      link.setAttribute("aria-current", "page");
+    }
+  });
+
   const bioElement = document.getElementById("bio");
 
   if (!bioElement) {
