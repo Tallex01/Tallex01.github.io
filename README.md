@@ -11,6 +11,6 @@ Minimal Python website starter.
 3. Install dependencies:
 	pip install -r requirements.txt
 4. Start the server:
-	python app.py
+	uvicorn app:app --reload
 
-Open http://127.0.0.1:5000 and you should see a blank white page with the text: Hello
+Open http://127.0.0.1:8000 and you should see a blank white page with the text: Hello

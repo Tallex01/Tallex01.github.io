@@ -1,12 +1,7 @@
-from flask import Flask, render_template
+from fastapi import FastAPI
+from fastapi.staticfiles import StaticFiles
 
-app = Flask(__name__)
+app = FastAPI()
 
-
-@app.route("/")
-def home():
-    return render_template("index.html")
-
-
-if __name__ == "__main__":
-    app.run(debug=True)
+# Serve static/index.html at '/' and static assets from the same directory.
+app.mount("/", StaticFiles(directory="static", html=True), name="site")
