@@ -100,6 +100,46 @@ body {
   backdrop-filter: blur(12px);
 }
 
+.resume-card {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 14px;
+}
+
+.resume-toolbar {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.resume-link {
+  text-decoration: none;
+  color: var(--text);
+  border: 1px solid var(--ring);
+  background: rgba(251, 248, 241, 0.9);
+  padding: 9px 14px;
+  border-radius: 999px;
+  font: 600 0.72rem/1 "Arial", sans-serif;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.resume-link:hover,
+.resume-link:focus-visible {
+  color: #ffffff;
+  background: var(--accent);
+  border-color: var(--accent);
+  outline: none;
+}
+
+.resume-frame {
+  width: 100%;
+  min-height: 70vh;
+  border: 1px solid var(--ring);
+  border-radius: 16px;
+  background: #ffffff;
+}
+
 .hero-card {
   width: min(960px, 100%);
   display: grid;
@@ -188,5 +228,13 @@ h1 {
 
   .content {
     padding: 4px 2px 10px;
+  }
+
+  .resume-card {
+    padding: 10px;
+  }
+
+  .resume-frame {
+    min-height: 62vh;
   }
 }
