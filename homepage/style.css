@@ -104,6 +104,38 @@ body {
   padding: 28px;
 }
 
+.resume-card {
+  padding: 24px;
+  display: grid;
+  gap: 18px;
+}
+
+.resume-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.resume-download {
+  flex: 0 0 auto;
+}
+
+.resume-frame {
+  width: 100%;
+  min-height: 78vh;
+  border: 1px solid var(--ring);
+  border-radius: 20px;
+  background: var(--surface-strong);
+}
+
+.resume-fallback {
+  margin: 0;
+  padding: 18px;
+  color: var(--muted);
+  font: 400 1rem/1.7 "Arial", sans-serif;
+}
+
 .links-title {
   margin: 0;
 }
