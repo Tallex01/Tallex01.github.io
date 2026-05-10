@@ -121,6 +121,12 @@ body {
   background: var(--surface-strong);
 }
 
+.project-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
 .project-title {
   margin: 0;
   color: var(--accent);
